@@ -1,6 +1,6 @@
 # test_smit_studio
 
-для запуска:
+для запуска: <br>
 1. 
 ``` bash
 echo 'POSTGRES_USER=postgres
